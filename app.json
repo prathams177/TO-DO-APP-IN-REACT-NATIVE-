@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "insta-app",
-    "slug": "insta-app",
+    "name": "toDo-app",
+    "slug": "toDo-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
